@@ -1,0 +1,5 @@
+C:\Users\Наталья\source\repos\notepad\NotePAd\NotePAd\obj\Debug\NotePAd.csprojAssemblyReference.cache
+C:\Users\Наталья\source\repos\notepad\NotePAd\NotePAd\obj\Debug\notepad.Form1.resources
+C:\Users\Наталья\source\repos\notepad\NotePAd\NotePAd\obj\Debug\NotePAd.Properties.Resources.resources
+C:\Users\Наталья\source\repos\notepad\NotePAd\NotePAd\obj\Debug\NotePAd.csproj.GenerateResource.cache
+C:\Users\Наталья\source\repos\notepad\NotePAd\NotePAd\obj\Debug\NotePAd.csproj.CoreCompileInputs.cache
