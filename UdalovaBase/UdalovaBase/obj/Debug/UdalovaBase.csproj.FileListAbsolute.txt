@@ -1,0 +1,14 @@
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\bin\Debug\UdalovaBase.exe.config
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\bin\Debug\UdalovaBase.exe
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\bin\Debug\UdalovaBase.pdb
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.csprojAssemblyReference.cache
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.Form1.resources
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.Properties.Resources.resources
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.csproj.GenerateResource.cache
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.csproj.CoreCompileInputs.cache
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.exe
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.pdb
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.Error.resources
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.Form2.resources
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.Add.resources
+C:\Users\kenny\source\repos\UdalovaBase\UdalovaBase\obj\Debug\UdalovaBase.Search.resources
